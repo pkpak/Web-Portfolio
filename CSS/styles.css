@@ -1,9 +1,13 @@
-<style type="text/css"
+<style type="text/css">
 body {
-    background-color: rgb(200,200,200);}
-    h1 {
-    background-color: DarkCyan;}
-    h2 {
-    background-color: #ee3e80;}
-    p {
-    background-color: white;}
+ font-family: sans serif;
+ background-color: rgb(253, 228, 239);}
+h1 {
+color: rgb(244, 175, 180);}
+h2 {
+color: rgb(185, 219, 164)
+}
+h3 {
+color: rgb(164, 219, 211)
+}
+</style>
